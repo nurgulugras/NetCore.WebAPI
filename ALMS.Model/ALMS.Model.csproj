@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0"/>
+    <PackageReference Include="Elsa.NNF.Data.ORM" Version="1.1.1"/>
+    <PackageReference Include="Elsa.ApprovalFlowManagement" Version="*"/>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

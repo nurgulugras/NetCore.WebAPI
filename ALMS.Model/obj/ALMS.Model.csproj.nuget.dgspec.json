@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj": {}
+  },
+  "projects": {
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj",
+        "projectName": "ALMS.Model",
+        "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj",
+        "packagesPath": "/Users/nurgulugras/.nuget/packages/",
+        "outputPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurgulugras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://10.20.2.25:9999/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Elsa.ApprovalFlowManagement": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Elsa.NNF.Data.ORM": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

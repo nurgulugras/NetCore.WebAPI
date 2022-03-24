@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\ALMS.Model\ALMS.Model.csproj"/>
+    <ProjectReference Include="..\ALMS.Data\ALMS.Data.csproj"/>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2"/>
+    <PackageReference Include="Microsoft.Extensions.Http" Version="3.1.15"/>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0"/>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.11.0"/>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.5.1"/>
+    <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="3.1.22"/>
+    <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="3.1.22"/>
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,407 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.WebAPI/ALMS.WebAPI.csproj": {}
+  },
+  "projects": {
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/ALMS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/ALMS.Core.csproj",
+        "projectName": "ALMS.Core",
+        "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/ALMS.Core.csproj",
+        "packagesPath": "/Users/nurgulugras/.nuget/packages/",
+        "outputPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurgulugras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://10.20.2.25:9999/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Elsa.NNF.Common.Library": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/ALMS.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/ALMS.Data.csproj",
+        "projectName": "ALMS.Data",
+        "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/ALMS.Data.csproj",
+        "packagesPath": "/Users/nurgulugras/.nuget/packages/",
+        "outputPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurgulugras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://10.20.2.25:9999/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/ALMS.Core.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/ALMS.Core.csproj"
+              },
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Elsa.NNF.Data.ORM": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj",
+        "projectName": "ALMS.Model",
+        "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj",
+        "packagesPath": "/Users/nurgulugras/.nuget/packages/",
+        "outputPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurgulugras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://10.20.2.25:9999/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Elsa.ApprovalFlowManagement": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Elsa.NNF.Data.ORM": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Service/ALMS.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Service/ALMS.Service.csproj",
+        "projectName": "ALMS.Service",
+        "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Service/ALMS.Service.csproj",
+        "packagesPath": "/Users/nurgulugras/.nuget/packages/",
+        "outputPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurgulugras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://10.20.2.25:9999/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/ALMS.Data.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/ALMS.Data.csproj"
+              },
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Extensions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.22, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.WebAPI/ALMS.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.WebAPI/ALMS.WebAPI.csproj",
+        "projectName": "ALMS.WebAPI",
+        "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.WebAPI/ALMS.WebAPI.csproj",
+        "packagesPath": "/Users/nurgulugras/.nuget/packages/",
+        "outputPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.WebAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nurgulugras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://10.20.2.25:9999/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/ALMS.Core.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Core/ALMS.Core.csproj"
+              },
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/ALMS.Data.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/ALMS.Data.csproj"
+              },
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/ALMS.Model.csproj"
+              },
+              "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Service/ALMS.Service.csproj": {
+                "projectPath": "/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Service/ALMS.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Elsa.ApprovalFlowManagement": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Elsa.NNF.Common.Library": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Elsa.NNF.Data.ORM": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.19, )"
+            },
+            "OData.Swagger": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

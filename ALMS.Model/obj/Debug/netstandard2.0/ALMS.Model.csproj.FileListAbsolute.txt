@@ -1,0 +1,9 @@
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/bin/Debug/netstandard2.0/ALMS.Model.deps.json
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/bin/Debug/netstandard2.0/ALMS.Model.dll
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/bin/Debug/netstandard2.0/ALMS.Model.pdb
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/Debug/netstandard2.0/ALMS.Model.csprojAssemblyReference.cache
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/Debug/netstandard2.0/ALMS.Model.AssemblyInfoInputs.cache
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/Debug/netstandard2.0/ALMS.Model.AssemblyInfo.cs
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/Debug/netstandard2.0/ALMS.Model.csproj.CoreCompileInputs.cache
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/Debug/netstandard2.0/ALMS.Model.dll
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Model/obj/Debug/netstandard2.0/ALMS.Model.pdb

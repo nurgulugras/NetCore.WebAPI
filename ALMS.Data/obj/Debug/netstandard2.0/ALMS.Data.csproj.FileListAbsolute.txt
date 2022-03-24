@@ -1,0 +1,14 @@
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/bin/Debug/netstandard2.0/ALMS.Data.deps.json
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/bin/Debug/netstandard2.0/ALMS.Data.dll
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/bin/Debug/netstandard2.0/ALMS.Data.pdb
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/bin/Debug/netstandard2.0/ALMS.Core.dll
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/bin/Debug/netstandard2.0/ALMS.Model.dll
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/bin/Debug/netstandard2.0/ALMS.Model.pdb
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/bin/Debug/netstandard2.0/ALMS.Core.pdb
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/Debug/netstandard2.0/ALMS.Data.csprojAssemblyReference.cache
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/Debug/netstandard2.0/ALMS.Data.AssemblyInfoInputs.cache
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/Debug/netstandard2.0/ALMS.Data.AssemblyInfo.cs
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/Debug/netstandard2.0/ALMS.Data.csproj.CoreCompileInputs.cache
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/Debug/netstandard2.0/ALMS.Data.csproj.CopyComplete
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/Debug/netstandard2.0/ALMS.Data.dll
+/Users/nurgulugras/Development/Projects/Products/AppLicenseManagementSystem/Development/NetCore.WebAPI/ALMS.Data/obj/Debug/netstandard2.0/ALMS.Data.pdb
